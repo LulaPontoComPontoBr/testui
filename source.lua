@@ -1,20 +1,4 @@
-[file name]: image.png
-[file content begin]
-SS i wang "bo ae gh a
-Stack End
-@ 14:17:15 — Failed to load sound rbxassetid://131303727931519: User is not authorized to access Asset,
-14:17:53 -~/ CARCr4zd: 322: CARCr4zd: 285: attempt to index nil with ‘Parent’
-Stack Begin
-oe   Script "CARCr4zd", Line 322
-Script-‘yapnxrpM’, Line 3
-Stack End
 
-8 LP GE NTY Se Ae Pe AGRO I og To iar et ae A omy OY ERTL D 5
-
-TS
-
-
-[file content end]
 
 --// gamesense.lua
 --// author: @focat
