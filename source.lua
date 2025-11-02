@@ -282,7 +282,7 @@ local function _watermark_tick()
 
 	-- gamesense->watermark
 
-	local watermark_gui  = script.Parent
+	local watermark_gui  = script and script.Parent
 	local watermark_text = Converted["_watermark"]
 	local s_players      = game:GetService("Players")
 	local s_runservice   = game:GetService("RunService")
